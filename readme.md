@@ -1,1 +1,1 @@
-![Image description](Picc.jpeg)
+![Image description](Pic.jpg)
